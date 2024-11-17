@@ -8,4 +8,4 @@ services:
     expose:
       - "8888"
     volumes:
-      - .:/home/jovyan/work
+      - ./product:/home/jovyan/work
