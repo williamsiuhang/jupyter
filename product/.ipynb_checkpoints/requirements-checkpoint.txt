@@ -44,6 +44,7 @@ decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_16415556
 defusedxml @ file:///home/conda/feedstock_root/build_artifacts/defusedxml_1615232257335/work
 dill @ file:///home/conda/feedstock_root/build_artifacts/dill_1690101045195/work
 distributed @ file:///home/conda/feedstock_root/build_artifacts/distributed_1697249144856/work
+docopt==0.6.2
 entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643888246732/work
 et-xmlfile @ file:///home/conda/feedstock_root/build_artifacts/et_xmlfile_1674664118162/work
 exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1692026125334/work
@@ -65,7 +66,7 @@ importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib
 importlib-resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1695414790617/work
 ipykernel @ file:///home/conda/feedstock_root/build_artifacts/ipykernel_1693880262622/work
 ipympl @ file:///home/conda/feedstock_root/build_artifacts/ipympl_1676535632179/work
-ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_1696264049390/work
+ipython==8.12.3
 ipython-genutils==0.2.0
 ipywidgets @ file:///home/conda/feedstock_root/build_artifacts/ipywidgets_1694607144474/work
 isoduration @ file:///home/conda/feedstock_root/build_artifacts/isoduration_1638811571363/work/dist
@@ -111,7 +112,7 @@ multidict @ file:///home/conda/feedstock_root/build_artifacts/multidict_16967161
 munkres==1.1.4
 nbclassic @ file:///home/conda/feedstock_root/build_artifacts/nbclassic_1683202081046/work
 nbclient @ file:///home/conda/feedstock_root/build_artifacts/nbclient_1684790896106/work
-nbconvert @ file:///home/conda/feedstock_root/build_artifacts/nbconvert-meta_1696472732413/work
+nbconvert==7.16.4
 nbdime @ file:///home/conda/feedstock_root/build_artifacts/nbdime_1682876851950/work
 nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1690814868471/work
 nest-asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1697083700168/work
@@ -134,6 +135,7 @@ patsy @ file:///home/conda/feedstock_root/build_artifacts/patsy_1665356157073/wo
 pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_1667297516076/work
 pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
 Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1697424014071/work
+pipreqs==0.5.0
 pkgutil_resolve_name @ file:///home/conda/feedstock_root/build_artifacts/pkgutil-resolve-name_1694617248815/work
 platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1696272223550/work
 pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1693086607691/work
@@ -209,6 +211,7 @@ websocket-client @ file:///home/conda/feedstock_root/build_artifacts/websocket-c
 widgetsnbextension @ file:///home/conda/feedstock_root/build_artifacts/widgetsnbextension_1694598693908/work
 xlrd @ file:///home/conda/feedstock_root/build_artifacts/xlrd_1610224409810/work
 xyzservices @ file:///home/conda/feedstock_root/build_artifacts/xyzservices_1696506440459/work
+yarg==0.1.9
 yarl @ file:///home/conda/feedstock_root/build_artifacts/yarl_1696732529481/work
 zict @ file:///home/conda/feedstock_root/build_artifacts/zict_1681770155528/work
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1695255097490/work

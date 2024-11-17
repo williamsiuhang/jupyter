@@ -9,3 +9,6 @@ services:
       - "8888"
     volumes:
       - ./product:/home/jovyan/work
+    user: root
+    environment:
+      GRANT_SUDO: "yes"
